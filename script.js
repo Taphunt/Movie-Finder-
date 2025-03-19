@@ -1,4 +1,4 @@
-const API_KEY = "your_omdb_api_key";  // Replace with your OMDb API key
+const API_KEY = "5264b796";  // Replace with your OMDb API key
 let debounceTimer; 
 
 // Function to get real-time movie suggestions
